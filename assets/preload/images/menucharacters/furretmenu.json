@@ -1,0 +1,10 @@
+{
+	"idle_anim": "furret menu menu bop",
+	"image": "furret menu",
+	"position": [
+		590,
+		460
+	],
+	"scale": 0.3,
+	"confirm_anim": "M Dad Idle"
+}

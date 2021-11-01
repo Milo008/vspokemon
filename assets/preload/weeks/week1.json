@@ -1,0 +1,48 @@
+{
+	"storyName": "Generation I",
+	"hideFreeplay": false,
+	"weekBackground": "field",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pikamenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"New Game",
+			"pikachu",
+			[
+				255,
+				195,
+				33
+			]
+		],
+		[
+			"Powersurge",
+			"pikachu",
+			[
+				255,
+				195,
+				33
+			]
+		],
+		[
+			"Voltackle",
+			"pikachu",
+			[
+				255,
+				195,
+				33
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Gen I"
+}

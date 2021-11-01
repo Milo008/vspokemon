@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "pika menu menu bop",
+	"position": [
+		580,
+		450
+	],
+	"scale": 0.3,
+	"image": "pika menu"
+}

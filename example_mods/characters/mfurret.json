@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				500,
+				230
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "mfurret idle"
+		},
+		{
+			"offsets": [
+				502,
+				230
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mfurret sing left"
+		},
+		{
+			"offsets": [
+				500,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mfurret sing down"
+		},
+		{
+			"offsets": [
+				500,
+				235
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mfurret sing up"
+		},
+		{
+			"offsets": [
+				483,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mfurret sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mfurret",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mfurret",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		62,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

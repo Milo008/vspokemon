@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="furret menu.png"><SubTexture name="furret menu menu bop0000" x="0" y="0" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0001" x="1288" y="0" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0002" x="2576" y="0" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0003" x="0" y="1288" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0004" x="1288" y="1288" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0005" x="2576" y="1288" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0006" x="0" y="2576" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0007" x="1288" y="2576" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0008" x="2576" y="2576" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0009" x="0" y="3864" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0010" x="1288" y="3864" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0011" x="2576" y="3864" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+<SubTexture name="furret menu menu bop0012" x="0" y="5152" width="1288" height="1288" frameX="0" frameY="0" frameWidth="1288" frameHeight="1288" />
+</TextureAtlas>
