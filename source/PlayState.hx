@@ -1013,15 +1013,6 @@ class PlayState extends MusicBeatState
 				case 'senpai' | 'roses' | 'thorns':
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
-
-                case 'new-game':
-			    	 startDialogue(dialogueJson);
-			    
-				    case 'powersurge':
-					 startDialogue(dialogueJson);
-
-			         case 'voltackle':
-					 startDialogue(dialogueJson);
 					
 				default:
 					startCountdown();
